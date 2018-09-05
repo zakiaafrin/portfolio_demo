@@ -1,0 +1,27 @@
+p{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 17px;
+}
+.navbar-custom, .navbar-custom .dropdown-menu {
+    background-color:  #a30729;
+}
+.navbar-brand>img {
+    block-size: 38px;
+    margin-top: 0%;
+    max-width: 10vw;
+}
+#filter li a.active, #filter li a:hover {
+    background:  rgb(92, 55, 62);
+}
+.biography ul {
+    background-color: #83e7c4;
+}
+.section-title::after {
+    color: blueviolet;
+}
+td {
+    padding: 0vh 0vw 0vw 40vh;
+}
+th {
+    padding: 0vh 0vw 0vw 40vh;
+}
